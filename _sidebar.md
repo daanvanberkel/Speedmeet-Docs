@@ -5,3 +5,6 @@
     - [Inloggen](app/inloggen.md)
     - [Major selecteren](app/major-kiezen.md)
     - [Bedrijven](app/bedrijven.md)
+    - [Uitschijven](app/student-uitschrijven.md)
+    - [Profiel](app/student-profiel.md)
+    - [Plattegrond](app/student-map.md)

@@ -2,7 +2,7 @@
 
 In de onderstaande lijst staan de bedrijven waarmee je een gesprek hebt tijdens de SpeedMeet. Door op een bedrijf te klikken zul je op de detail pagina van een bedrijf komen.
 
-![Inschrijvingen van Student](../media/app-inschrijven-bevestigen.png)
+![Inschrijvingen van Student](../media/app-inschrijvingen-bevestiging.png)
 
 In het onderstaande scherm kun je onderaan de pagina kiezen om je weer uit te schrijven bij dit bedrijf. Als je op de link "Uitschrijven" klikt zal er om een bevestiging gevraagd worden.
 
