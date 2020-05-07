@@ -2,4 +2,5 @@
     - [Home](/)
 - Studenten app
     - [Overzicht](app.md)
+    - [Major selecteren](app/major-kiezen.md)
     - [Inloggen](app/inloggen.md)
