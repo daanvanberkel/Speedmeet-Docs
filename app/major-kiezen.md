@@ -10,4 +10,4 @@ Op dit scherm staat een lijst met alle majors die behoren bij jouw opleiding.
 
 Heb je perongelijk een verkeerde major geselecteerd? Dan kun je dat wijzigen via je profiel pagina door op de knop "Andere major selecteren" te klikken.
 
-![Major wijzigen screenshot](../media/app-andere-major-selecteren.png)
+![Major wijzigen screenshot](../media/app-profiel.png)

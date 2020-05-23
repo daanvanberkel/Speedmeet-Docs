@@ -34,7 +34,7 @@ Als je een tijd gevonden hebt waarop je je wilt inschrijven bij dit bedrijf tik 
 
 Door je inschrijving te bevestigen wordt je teruggestuurd naar de homepagina waarop je al je inschrijvingen kunt zien.
 
-![Inschrijven screenshot](../media/app-inschrijvingen-bevestiging.png)
+![Inschrijven screenshot](../media/app-inschrijvingen.png)
 
 ## CV delen
 
