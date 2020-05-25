@@ -8,6 +8,6 @@
     - [Uitschijven](app/student-uitschrijven.md)
     - [Profiel](app/student-profiel.md)
     - [Plattegrond](app/student-map.md)
-- Speedmeet website - Beheerder
+- Website - Beheerder
     - [Tijdsloten beheren](web/tijdsloten-beheren.md)
     - [Speedmeet overzicht (dashboard)](/web/speedmeet-dashboard.md)
