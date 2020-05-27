@@ -15,4 +15,4 @@
     - [Bedrijf registreren](/web/registratieproces.md)
     - [Majors beheren](/web/majors.md)
 - Website - Bedrijven
-    - [registratieproces](web-bedrijf/registratieproces.md)
+    - [Registratieproces](web-bedrijf/registratieproces.md)

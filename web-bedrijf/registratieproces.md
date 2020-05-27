@@ -1,25 +1,29 @@
 # Registratieproces
 
-Het registratie process voor een bedrijf loopt via een wizard. Bij de eerste login komt er een PopUp naar boven die verwijst naar de wizard.
+Het registratie process van een bedrijf loopt via een wizard. Zodra de eerste ingelogd wordt verschijnt er een dialog. Door op doorgaan te klikken wordt de wizard geopent 
 
+![Bedrijven beheeren overzicht](../media/web-bedrijf-registratie-dialog.png)
 
 ## Wizard - Bedrijfsgegevens
 
-Op deze pagina kun je een extra tijdslot toevoegen. Er wordt gevalideerd op het formaat en of het tijdslot al dan niet bestaat. Je dient voor ieder tijdslot een starttijd en eindtijd in te vullen.
+Op de eerste pagina van de wizard wordt er gevraagd om de algemene bedrijfs gegevens in te vullen. Het veld van de bedrijfsnaam moet verplicht ingevuld worden.
 
-Het formaat van het tijdslot is als volgt:
-HH:MM (dus bijvoorbeeld 09:00)
+* al de gegevens op deze pagin kunnen later door het bedrijf of de beheerder aangepast worden
 
-![Tijdsloten toevoegen screenshot](../media/web-tijdsloten-beheren-toevoegen.png)
+![Bedrijfsgegevens](../media/web-bedrijf-registratie-bedrijfsinformatie.png)
 
 ## Wizard - Contactpersoon
 
-Op deze pagina is het mogelijk om **alle** tijdsloten een aantal minuten op te schuiven. Om te tijdsloten naar voren op te schuiven vul je een positief getal in (dus: 5). Wil je de tijdsloten naar achter opschuiven? Vul dan een negatief getal in (dus: -5).
+Op de tweede pagina van de wizard moet moet het wachtwoord aangepast worden van de contactpersoon en is het mogelijk om het email te veranderen.
 
-![Alle tijdsloten aanpassen screenshot](../media/web-tijdsloten-beheren-tijdsloten-verschuiven.png)
+* al de gegevens op deze pagin kunnen later door het bedrijf of de beheerder aangepast worden
+
+![Contactpersoon](../media/web-bedrijf-registratie-contactpersoon.png)
 
 ## Wizard - Overzicht
 
-Om op deze pagina te komen dien je op de overzichtspagina op het potlood icoon te klikken. Op deze pagina kun je een specifiek tijdslot wijzigen. Net zoals bij het toevoegen van een tijdslot moet je rekening houden met de andere tijdsloten en dien je je te houden aan het formaat (HH:MM). Het is verplicht om een starttijd en eindtijd op te geven en hier word dan dus ook op gevalideerd.
+De laatste pagina van de wizard is een overzicht van al de ingevulde inforamtie, als deze informatie klopt kan deze bevestigd worden. Vervolgens zal het bedrijfsprofiel en de contactpersoon aangevuld worden en kan de contactpersoon inloggen met zijn nieuwe wachtwoord.
 
-![Tijdsloten aanpassen screenshot](../media/web-tijdsloten-beheren-aanpassen.png)
+* al de gegevens op deze pagin kunnen later door het bedrijf of de beheerder aangepast worden
+
+![Overzicht](../media/web-bedrijf-registratie-contactpersoon.png)
