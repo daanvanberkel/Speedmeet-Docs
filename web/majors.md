@@ -1,31 +1,55 @@
-# Opleidingen Beheeren
+# Majors Beheeren
 
-Het registratie process voor een bedrijf loopt via een wizard. Bij de eerste login komt er een PopUp naar boven die verwijst naar de wizard.
+Binnen de web-applicatie kunnen majors beheerd worden. Majors zijn ervoor dat bedrijven kunnen kiezen van welke major studenten kunnen inschrijven en dat bij het inloggen in de app een student een major kan kiezen
+
+De knop voor het beheeren van majors is te vinden in het menu bovenaan de webste
+
+![Overzicht majors](../media/web-majors-overzicht.png)
+
+## Majors - Overzicht
+
+Op de pagina majors is een overzicht van alle majors, een knop voor het toevoegen van een major en een zoek balk.
+
+Overzicht: In dit overzicht staan al de majors die ooit in het systeem zijn ingegeven, aan de slider is te zien of de major op dit moment actief is (Gekozen kan worden door bedrijf en student). Ook zijn er twee knoppen te vinden. De knop met het potloodje opend het scherm voor het updaten van een major. De knop met het rondje waar een streepje in staat opent een dialog voor het verijderen van een major.
+
+Zoekbalk: Deze zoekbalk filterd de tabel op basis van een ingegeven zoekopdracht.
+
+Knop major toevoegen: opent de pagina voor het toevoegen van een major.
+
+![Overzicht majors](../media/web-majors-overzicht.png)
 
 
-## Opleiding - Overzicht
+## Majors - Toevoegen
 
-Op deze pagina kun je een extra tijdslot toevoegen. Er wordt gevalideerd op het formaat en of het tijdslot al dan niet bestaat. Je dient voor ieder tijdslot een starttijd en eindtijd in te vullen.
+Op deze pagina is het mogelijk om een major toe te voegen aan het systeem. Aan de linker kant van de pagina is een formulier te vinden om een major toe te voegen en aan de rechter kant een kort overzicht met al de majors die op dit moment in het systeem staan.
 
-Het formaat van het tijdslot is als volgt:
-HH:MM (dus bijvoorbeeld 09:00)
+Formulier velden:
+Al de velden in het formulier zijn verplicht
 
-![Tijdsloten toevoegen screenshot](../media/web-tijdsloten-beheren-toevoegen.png)
+ - Major: Naam van de major (Bijvoorbeeld: Software ontwikkeling)
+ - Afkorting: Afkrting van een major (Bijvoorbeeld: SO)
+ - Opleiding: De naam van de opleiding waar de major ondervalt (Bijvoorbeeld: Informatica)
+ - Max inschijvingen: Het maximaal aantal inschijvingen van studenten die onder deze major vallen per bedrijf (Bijvoorbeeld: 10) 
 
-## Opleiding - Toevoegen
+Door vervolgens op de knop toevoegen te drukken wordt de major toegevoegd and wordt er terug genavigeerd naar de overzichtspagina.
 
-Op deze pagina is het mogelijk om **alle** tijdsloten een aantal minuten op te schuiven. Om te tijdsloten naar voren op te schuiven vul je een positief getal in (dus: 5). Wil je de tijdsloten naar achter opschuiven? Vul dan een negatief getal in (dus: -5).
+![Overzicht majors](../media/web-majors-toevoegen.png)
 
-![Alle tijdsloten aanpassen screenshot](../media/web-tijdsloten-beheren-tijdsloten-verschuiven.png)
+## Majors - Aanpassen
 
-## Opleiding - Aanpassen
+De pagina aanpassen werkt op dezelde manier als "Majors - Toevoegen" alleen worden hier de gegevens van de major al ingevuld.
 
-Om op deze pagina te komen dien je op de overzichtspagina op het potlood icoon te klikken. Op deze pagina kun je een specifiek tijdslot wijzigen. Net zoals bij het toevoegen van een tijdslot moet je rekening houden met de andere tijdsloten en dien je je te houden aan het formaat (HH:MM). Het is verplicht om een starttijd en eindtijd op te geven en hier word dan dus ook op gevalideerd.
+![Overzicht majors](../media/web-majors-aanpassen.png)
 
-![Tijdsloten aanpassen screenshot](../media/web-tijdsloten-beheren-aanpassen.png)
+## Majors - Activeren
 
-## Opleiding - Activeren
+Door de slider te verplaatsten wordt een major in of uitgeschakeld, dit betekend dat de major gekozen kan worden (Ingeschakeld) of niet (Uitgeschakeld)
 
-Om op deze pagina te komen dien je op de overzichtspagina op het potlood icoon te klikken. Op deze pagina kun je een specifiek tijdslot wijzigen. Net zoals bij het toevoegen van een tijdslot moet je rekening houden met de andere tijdsloten en dien je je te houden aan het formaat (HH:MM). Het is verplicht om een starttijd en eindtijd op te geven en hier word dan dus ook op gevalideerd.
+![Overzicht majors](../media/web-majors-overzicht.png)
 
-![Tijdsloten aanpassen screenshot](../media/web-tijdsloten-beheren-aanpassen.png)
+
+## Majors - Verijderen
+
+In deze dialog wordt nog een keer gevraagd of het zeker is dat de major verwijdert moet worden.
+
+![Overzicht majors](../media/web-majors-verwijderen.png)
