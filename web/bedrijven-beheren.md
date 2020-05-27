@@ -95,7 +95,7 @@ Dit scherm zal een popup openen waar u de gegevens van een nieuw contactpersoon 
 
 
 
-# ingeschreven studenten
+# Ingeschreven studenten
 
 Om een weergave te krijgen van welke studenten zich ingeschreven hebben voor de speedmeet, is er onder de bedrijfsgegevens
 
@@ -134,13 +134,13 @@ ingevuld zijn door de student.
 
 
 
-# Geïntereseerde opleidingen
+# GeÃ¯ntereseerde opleidingen
 
-De laatste knop in het overige tabje is het aanpassen van Geïntereseerde opleidingen.
+De laatste knop in het overige tabje is het aanpassen van GeÃ¯ntereseerde opleidingen.
 
 In dit scherm kunt u selecteren van welke opleiding u stagiaires wilt spreken tijdens de speedmeet.
 
 
 
 
-![Geïntereseerde opleidingen](../media/geïntereseerde-opleidingen.png)
+![Geï¿½ntereseerde opleidingen](../media/geÃ¯ntereseerde-opleidingen.png)

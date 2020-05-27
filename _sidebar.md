@@ -9,5 +9,6 @@
     - [Profiel](app/student-profiel.md)
     - [Plattegrond](app/student-map.md)
 - Website - Beheerder
+    - [Bedrijven beheren](web/bedrijven-beheren.md)
     - [Tijdsloten beheren](web/tijdsloten-beheren.md)
     - [Speedmeet overzicht (dashboard)](/web/speedmeet-dashboard.md)
