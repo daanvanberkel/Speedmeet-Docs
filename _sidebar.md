@@ -12,3 +12,7 @@
     - [Bedrijven beheren](web/bedrijven-beheren.md)
     - [Tijdsloten beheren](web/tijdsloten-beheren.md)
     - [Speedmeet overzicht (dashboard)](/web/speedmeet-dashboard.md)
+    - [Bedrijf registreren](/web/registratieproces.md)
+    - [opleidingen beheren](/web/majors.md)
+- Website - Bedrijven
+    - [registratieproces](web-bedrijf/registratieproces.md)
