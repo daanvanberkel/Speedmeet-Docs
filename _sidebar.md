@@ -9,10 +9,17 @@
     - [Profiel](app/student-profiel.md)
     - [Plattegrond](app/student-map.md)
 - Website - Beheerder
-    - [Bedrijven beheren](web/bedrijven-beheren.md)
-    - [Tijdsloten beheren](web/tijdsloten-beheren.md)
     - [Speedmeet overzicht (dashboard)](/web/speedmeet-dashboard.md)
     - [Bedrijf registreren](/web/registratieproces.md)
+    - [Bedrijven beheren](web/bedrijven-beheren.md)
+    - [Bedrijven importeren](web/bedrijven-importeren.md)
+    - [Bedrijven exporteren](web/bedrijven-exporteren.md)
     - [Majors beheren](/web/majors.md)
+    - [Tijdsloten beheren](web/tijdsloten-beheren.md)
 - Website - Bedrijven
+    - [Overzicht](web-bedrijf.md)
     - [Registratieproces](web-bedrijf/registratieproces.md)
+    - [Gegevens beheren](web-bedrijf/bedrijfsgegevens-beheren.md)
+    - [Student gegevens bekijken](web-bedrijf/student-gegevens-bekijken.md)
+    - [Plattegrond](web-bedrijf/plattegrond.md)
+    
