@@ -31,7 +31,7 @@ Om een super-beheerder toe te kunnen voegen moet u zelf een super-beheerder zijn
 
 ## Beheerder aanpassen
 
-Door op de knop met het podlootje achter een beheerder te klikken krijgt u een dialog te zien waarmee u de gegevens van de beheerder kunt aanpassen.
+Door op de knop met het potlootje achter een beheerder te klikken krijgt u een dialog te zien waarmee u de gegevens van de beheerder kunt aanpassen.
 
 ![Beheerder aanpassen](../media/web-beheerder-aanpassen.png)
 
