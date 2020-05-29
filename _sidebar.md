@@ -16,6 +16,7 @@
     - [Bedrijven exporteren](web/bedrijven-exporteren.md)
     - [Majors beheren](/web/majors.md)
     - [Tijdsloten beheren](web/tijdsloten-beheren.md)
+    - [Beheerders beheren](web/beheerders-beheren.md)
 - Website - Bedrijven
     - [Overzicht](web-bedrijf.md)
     - [Registratieproces](web-bedrijf/registratieproces.md)
