@@ -17,3 +17,15 @@ Met de knop "Aantal inschrijvingen aanpassen" op de overzichts pagina van de spe
 ?> Als u het aantal naar beneden aanpast en een student heeft zich daardoor te vaak ingeschreven, blijven deze inschrijvingen toch bestaan.
 
 ![Aantal inschrijvingen dialog](../media/web-aantal-inschijvingen-dialog.png)
+
+## Reset speedmeet
+Met de knop "Reset speedmeet" is het mogelijk om alle gegevens van de speedmeet te resetten, zodat je bij een volgende speedmeet geen achtergebleven informatie hebt. De volgende gegevens worden gereset:
+
+- Leeghalen en opnieuw genereren van tijdsloten en rondes.
+- Verwijderen van student data (profiel, CV).
+- Verwijderen van majors.
+- Bedrijven die op 'Meedoen' staan, terugzetten naar 'Geregistreerd'.
+
+!> Alleen een superbeheerder kan de speedmeet resetten.
+
+![Reset speedmeet](../media/web-reset-speedmeet.png)
